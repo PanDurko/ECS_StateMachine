@@ -1,0 +1,18 @@
+{
+    "name": "Providers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa18e07aa200438a9df5e0889c79de99",
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:b5dbb320d918a6348ac59ddc08ac7a84"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
